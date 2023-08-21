@@ -1,0 +1,4 @@
+1.  lakukan installasi myth auth sesuai dari github myth auth
+2.  lakukan konfigurasi
+3.  tambahkan aliases di app/config/filters.php
+4.  lakukan Global restrictions atau pada $filters pada file app/config/filters.php
